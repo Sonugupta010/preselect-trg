@@ -12,7 +12,7 @@ import java.util.Scanner;
 * @since   2024-03-06 
 */ 
 
-class Average{
+public class Average{
 	public static void main(String[] args){
 		double[] num = new double[10];
 		double sum = 0;
